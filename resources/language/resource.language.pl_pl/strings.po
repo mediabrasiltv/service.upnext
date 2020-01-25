@@ -25,6 +25,10 @@ msgctxt "#30008"
 msgid "Up Next"
 msgstr "Kolejny"
 
+msgctxt "#30009"
+msgid "Ends at: $INFO[Window.Property(endtime)]"
+msgstr "Koniec o: $INFO[Window.Property(endtime)]"
+
 msgctxt "#30010"
 msgid "Continue watching"
 msgstr "Kontynuuj oglądanie"
@@ -167,11 +171,7 @@ msgctxt "#30703"
 msgid "Disable Up Next"
 msgstr "Wyłącz Up Next"
 
-msgctxt "#30707"
-msgid "Choose the window to be shown"
-msgstr "Wybierz okno, które chcesz wyświetlić"
-
-msgctxt "#30709"
+msgctxt "#30705"
 msgid "Log level"
 msgstr "Poziom logów"
 

@@ -25,6 +25,10 @@ msgctxt "#30008"
 msgid "Up Next"
 msgstr "Volgende aflevering"
 
+msgctxt "#30009"
+msgid "Ends at: $INFO[Window.Property(endtime)]"
+msgstr "Eindigt om: $INFO[Window.Property(endtime)]"
+
 msgctxt "#30010"
 msgid "Continue watching"
 msgstr "Verder kijken"
@@ -168,14 +172,6 @@ msgid "Disable Up Next"
 msgstr "Up Next uitschakelen"
 
 msgctxt "#30705"
-msgid "Enable developer mode"
-msgstr "Ontwikkelaarsmodus inschakelen"
-
-msgctxt "#30707"
-msgid "Choose the window to be shown"
-msgstr "Kies het venster om te tonen"
-
-msgctxt "#30709"
 msgid "Log level"
 msgstr "Logniveau"
 
